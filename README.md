@@ -1,4 +1,4 @@
-nghint
-======
+jshint-angularjs
+================
 
-nghint is a tool that helps to detect errors and potential problems in your AngularJS application.
+a JSHint module for AngularJS
