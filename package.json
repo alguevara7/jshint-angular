@@ -1,0 +1,31 @@
+{
+  "name": "jshint-angular",
+  "version": "0.0.0",
+  "description": "a JSHint module for AngularJS",
+  "homepage": "https://github.com/alexguev/jshint-angular",
+  "bugs": "https://github.com/alexguev/jshint-angular/issues",
+  "author": {
+    "name": "Alexei Guevara",
+    "email": "alexguev@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexguev/jshint-angular"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-watch": "~0.5.0",
+    "grunt-mocha-test": "~0.6.2",
+    "matchdep": "~0.1.2",
+    "mocha": "~1.12.0",
+    "growl": "~1.7.0"
+  },
+  "dependencies": {
+    "jshint": "~2.1.9"
+  }
+}
